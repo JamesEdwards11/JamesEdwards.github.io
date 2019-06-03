@@ -1,2 +1,2 @@
-# KinngX.github.io
+# jamesedwards.github.io
 my first website
